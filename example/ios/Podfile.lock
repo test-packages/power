@@ -1,6 +1,6 @@
 PODS:
   - Flutter (1.0.0)
-  - power (0.0.1):
+  - power (0.3.0):
     - Flutter
 
 DEPENDENCIES:
@@ -14,9 +14,9 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/power/ios"
 
 SPEC CHECKSUMS:
-  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  power: 892d829d4ab61ebd15f264914bfd72250f994428
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  power: 0673613c6a2f291ff27f695b16f907e74d6ed2a7
 
-PODFILE CHECKSUM: a75497545d4391e2d394c3668e20cfb1c2bbd4aa
+PODFILE CHECKSUM: 7368163408c647b7eb699d0d788ba6718e18fb8d
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.11.3
